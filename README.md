@@ -2,7 +2,7 @@
 
 <div align=center><img src="https://pic.rmb.bdstatic.com/bjh/news/2a49c6a6c68dae50e852c459302542bf.gif"/></div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=F7F7F7D4&repeat=false&width=435&lines=pokemon+-----GET+daze%EF%BC%81%EF%BC%81%EF%BC%81" alt="Typing SVG" /></a>
+<div align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=F7F7F7D4&repeat=false&width=435&lines=pokemon+-----GET+daze%EF%BC%81%EF%BC%81%EF%BC%81" alt="Typing SVG" /></a></div>
 
 <!--
 **Di-teamr/Di-teamr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
